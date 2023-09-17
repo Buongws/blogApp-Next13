@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1rem;
+  height: 100px;
+}
+.social {
+  display: flex;
+  gap: 10px;
+  flex: 1;
+}
+.links {
+  display: flex;
+  flex: 1;
+  gap: 20px;
+}
+.logo {
+  flex: 1;
+  text-align: center;
+  font-weight: bold;
+  font-size: 36px;
+}
