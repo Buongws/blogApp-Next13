@@ -1,4 +1,3 @@
-import Link from "next/link";
 import style from "./homepage.module.css";
 import Feature from "@/components/feature/Feature";
 import CategoryList from "@/components/categoryList/CategoryList";
