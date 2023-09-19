@@ -21,7 +21,9 @@ const Card = () => {
           facere deleniti debitis, error sed incidunt aspernatur ducimus
           quibusdam minus voluptatum?
         </p>
-        <Link href="/">READ MORE</Link>
+        <Link href="/" className={styles.link}>
+          READ MORE
+        </Link>
       </div>
     </div>
   );
