@@ -3,6 +3,7 @@ import styles from "./blogPage.module.css";
 import CardList from "@/components/cardList/CardList";
 import Menu from "@/components/Menu/Menu";
 const page = () => {
+  console.log("alo");
   return (
     <div className={styles.container}>
       <h1 className={styles.title}>Style Blog</h1>
